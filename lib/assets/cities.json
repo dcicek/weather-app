@@ -1,0 +1,326 @@
+{
+    "cities": [
+        {
+            "name": "adana",
+            "id": "1"
+        },
+        {
+            "name": "adıyaman",
+            "id": "2"
+        },
+        {
+            "name": "afyonkarahisar",
+            "id": "3"
+        },
+        {
+            "name": "ağrı",
+            "id": "4"
+        },
+        {
+            "name": "amasya",
+            "id": "5"
+        },
+        {
+            "name": "ankara",
+            "id": "6"
+        },
+        {
+            "name": "antalya",
+            "id": "7"
+        },{
+            "name": "artvin",
+            "id": "8"
+        },{
+            "name": "aydın",
+            "id": "9"
+        },{
+            "name": "balıkesir",
+            "id": "10"
+        },
+        {
+            "name": "bilecik",
+            "id": "11"
+        },
+        {
+            "name": "bingöl",
+            "id": "12"
+        },
+        {
+            "name": "bitlis",
+            "id": "13"
+        },
+        {
+            "name": "bolu",
+            "id": "14"
+        },
+        {
+            "name": "burdur",
+            "id": "15"
+        },
+        {
+            "name": "bursa",
+            "id": "16"
+        },
+        {
+            "name": "çanakkale",
+            "id": "17"
+        },
+
+        {
+            "name": "çankırı",
+            "id": "18"
+        },
+        {
+            "name": "çorum",
+            "id": "19"
+        },
+        {
+            "name": "denizli",
+            "id": "20"
+        },
+        {
+            "name": "diyarbakır",
+            "id": "21"
+        },
+        {
+            "name": "edirne",
+            "id": "22"
+        },
+        {
+            "name": "elazığ",
+            "id": "23"
+        },
+        {
+            "name": "erzincan",
+            "id": "24"
+        },
+        {
+            "name": "erzurum",
+            "id": "25"
+        },
+        {
+            "name": "eskişehir",
+            "id": "26"
+        },
+        {
+            "name": "gaziantep",
+            "id": "27"
+        },
+        {
+            "name": "giresun",
+            "id": "28"
+        },
+        {
+            "name": "gümüşhane",
+            "id": "29"
+        },
+        {
+            "name": "hakkari",
+            "id": "30"
+        },
+        {
+            "name": "hatay",
+            "id": "31"
+        },
+        {
+            "name": "ısparta",
+            "id": "32"
+        },
+        {
+            "name": "mersin",
+            "id": "33"
+        },
+        {
+            "name": "istanbul",
+            "id": "34"
+        },
+        {
+            "name": "izmir",
+            "id": "35"
+        },
+        {
+            "name": "kars",
+            "id": "36"
+        },
+        {
+            "name": "kastamonu",
+            "id": "37"
+        },
+        {
+            "name": "kayseri",
+            "id": "38"
+        },
+        {
+            "name": "kırklareli",
+            "id": "39"
+        },
+        {
+            "name": "kırşehir",
+            "id": "40"
+        },
+        {
+            "name": "kocaeli",
+            "id": "41"
+        },
+        {
+            "name": "konya",
+            "id": "42"
+        },
+        {
+            "name": "kütahya",
+            "id": "43"
+        },
+        {
+            "name": "malatya",
+            "id": "44"
+        },
+        {
+            "name": "manisa",
+            "id": "45"
+        },
+        {
+            "name": "kahramanmaraş",
+            "id": "46"
+        },
+        {
+            "name": "mardin",
+            "id": "47"
+        },
+        {
+            "name": "muğla",
+            "id": "48"
+        },
+        {
+            "name": "muş",
+            "id": "49"
+        },
+        {
+            "name": "nevşehir",
+            "id": "50"
+        },
+        {
+            "name": "niğde",
+            "id": "51"
+        },
+        {
+            "name": "ordu",
+            "id": "52"
+        },
+        {
+            "name": "rize",
+            "id": "53"
+        },
+        {
+            "name": "sakarya",
+            "id": "54"
+        },
+        {
+            "name": "samsun",
+            "id": "55"
+        },
+        {
+            "name": "siirt",
+            "id": "56"
+        },
+        {
+            "name": "sinop",
+            "id": "57"
+        },
+        {
+            "name": "sivas",
+            "id": "58"
+        },
+        {
+            "name": "tekirdağ",
+            "id": "59"
+        },
+        {
+            "name": "tokat",
+            "id": "60"
+        },
+        {
+            "name": "trabzon",
+            "id": "61"
+        },
+        {
+            "name": "tunceli",
+            "id": "62"
+        },
+        {
+            "name": "şanlıurfa",
+            "id": "63"
+        },
+        {
+            "name": "uşak",
+            "id": "64"
+        },
+        {
+            "name": "van",
+            "id": "65"
+        },
+        {
+            "name": "yozgat",
+            "id": "66"
+        },
+        {
+            "name": "zonguldak",
+            "id": "67"
+        },
+        {
+            "name": "aksaray",
+            "id": "68"
+        },
+        {
+            "name": "bayburt",
+            "id": "69"
+        },
+        {
+            "name": "karaman",
+            "id": "70"
+        },
+        {
+            "name": "kırıkkale",
+            "id": "71"
+        },
+        {
+            "name": "batman",
+            "id": "72"
+        },
+        {
+            "name": "şırnak",
+            "id": "73"
+        },
+        {
+            "name": "bartın",
+            "id": "74"
+        },
+        {
+            "name": "ardahan",
+            "id": "75"
+        },
+        {
+            "name": "ığdır",
+            "id": "76"
+        },
+        {
+            "name": "yalova",
+            "id": "77"
+        },
+        {
+            "name": "karabük",
+            "id": "78"
+        },
+        {
+            "name": "kilis",
+            "id": "79"
+        },
+        {
+            "name": "osmaniye",
+            "id": "80"
+        },
+        {
+            "name": "düzce",
+            "id": "81"
+        }
+    ]
+}
