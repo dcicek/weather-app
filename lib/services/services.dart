@@ -10,7 +10,7 @@ class ApiServices{
 
   Future<WeatherModel> makeList({city})
   async {
-    final url = Uri.parse('https://api.openweathermap.org/data/2.5/weather?q='+city+'&lang=tr&units=metric&appid=bceb49730d3de39d66f4b5219e717753');
+    final url = Uri.parse('https://api.openweathermap.org/data/2.5/weather?q='+city+'&lang=tr&units=metric&appid=...');
     final response = await http.get(url);
 
     if (response.statusCode == 200) {
